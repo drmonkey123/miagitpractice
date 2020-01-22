@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Customer Purchasing Behavior via Clustering Analysis](Project2/hierarchical clustering analysis.Rmd)
+[Customer Purchasing Behavior via Clustering Analysis](https://github.com/drmonkey123/miagitpractice/blob/master/Project2/hierarchical%20clustering%20analysis.Rmd)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
