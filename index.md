@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Customer Purchasing Behavior via Clustering Analysis](/pdf/sample_presentation.pdf)
+[Customer Purchasing Behavior via Clustering Analysis](file:///C:/Users/jia560/Downloads/hierarchical-clustering-analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
